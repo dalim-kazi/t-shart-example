@@ -1,0 +1,35 @@
+.shart-details-container img{
+    width: 240px;
+    height: 220px;
+    padding-left: 9px;
+    padding-top: 5px;
+}
+.shart-details-container{
+    height: 350px;
+    width: 256px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 20px;
+     border:0;
+     position: relative;
+     border-radius: 10px;
+     background-color: white;
+}
+.tshart-info{
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.btn{
+    width: 100%;
+    border: 0;
+    padding: 5px;
+    background-color: rgb(227, 227, 80);
+    border-radius: 0 0 5px 5px;
+    position: absolute;
+    bottom: 0;
+    color:black;
+}
+.btn:hover{
+    background-color: orange;
+    color: white;
+}

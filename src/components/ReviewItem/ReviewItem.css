@@ -1,0 +1,29 @@
+.review-container img{
+height: 80px;
+width: 90px;
+}
+.review-container{
+    display: flex;
+    margin-left:10%;
+    margin-top: 20px;
+    background-color: white;
+    padding: 9px;
+    width: 50%;
+}
+.review-info p{
+ margin-left: 30px;
+}
+.review-details{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.btn-review{
+     background-color:rgb(235, 190, 107);
+     padding: 20px;
+     border-radius: 40px;
+}
+.btn-review:hover{
+    background-color: orange;
+}
